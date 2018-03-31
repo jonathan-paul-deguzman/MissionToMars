@@ -22,13 +22,13 @@ public class SimulationTest {
 
     private ArrayList<Item> itemsLoadedFromFile;
 
-    private String validFileName = "space_challenge_phase_1.txt";
+    private String validFileName = "assets/space_challenge_phase_1.txt";
 
-    private String sampleDataTestFileName = "test_values_sample_data.txt";
+    private String sampleDataTestFileName = "assets/test_values_sample_data.txt";
 
-    private String invalidFormatTestFileName = "test_values_invalid_format.txt";
+    private String invalidFormatTestFileName = "assets/test_values_invalid_format.txt";
 
-    private String emptyFileTestFileName = "test_values_empty_file.txt";
+    private String emptyFileTestFileName = "assets/test_values_empty_file.txt";
 
     @BeforeEach
     public void createFile() throws FileNotFoundException {
