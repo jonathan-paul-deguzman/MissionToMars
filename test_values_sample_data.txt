@@ -1,0 +1,6 @@
+Food=2000
+Food=2000
+Tools=2000
+Steel=2000
+Water=2000
+Clothes=1000
